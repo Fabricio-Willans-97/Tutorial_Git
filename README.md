@@ -1,7 +1,7 @@
 # Tutorial básico de Git
 
-## Tutorial dos comandos mais importantes.
-Créditos a Matheus Battisti, link do curso no Udemy abaixo: <br>
+### Tutorial dos comandos mais importantes.
+Créditos a Matheus Battisti, Dev Fullstack e instrutor. Link do curso na Udemy abaixo: <br>
 <a href="https://www.udemy.com/course/git-e-github-do-basico-ao-avancado-c-gist-e-github-pages/">Curso Git e GitHub do básico ao avançado (c/ gist e GitHub Pages)</a>
 
 ### Inicialização
